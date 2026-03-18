@@ -1,0 +1,13 @@
+# docker-bake.hcl
+group "default" {
+  targets = ["gemini"]
+}
+
+target "gemini" {
+  context = "."
+  dockerfile = "Dockerfile"
+  tags = ["geminiregistry123.azurecr.io/gemini-chatbot:v1"]
+  platforms = ["linux/amd64"]
+  push = true
+}
+

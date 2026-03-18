@@ -1,0 +1,14 @@
+,,,,,,,,,,
+Total Tasks,11,,Priority,,,Escalation Tier,,,Status,
+Completed Task,2,,High,6,,Critical,0,,Awaiting Customer Verification,1
+In Progress Tasks,6,,Medium ,5,,High,10,,Customer Action Requested,3
+Blocked Tasks,0,,Low,4,,Medium,5,,Customer Comment Added,1
+Not Started,3,,,,,Low,1,,Customer Request Close,2
+,,,,,,,,,Event Scheduled,1
+,,,,,,,,,Guidance Provided,1
+,,,,,,,,,On Hold,3
+,,,,,,,,,Pending Customer,4
+,,,,,,,,,Researching,1
+,,,,,,,,,Status,1
+,,,,,,,,,TAC Handoff,1
+,,,,,,,,,Grand Total,19
